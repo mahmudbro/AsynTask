@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvStatus" type="id" />
+    <item name="btnDownload" type="id" />
+    <item name="pbLoading" type="id" />
+</resources>
